@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**Imomali1/Imomali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h2>👋 About me</h2>
 
 - 🔭 I’m currently working on myself
