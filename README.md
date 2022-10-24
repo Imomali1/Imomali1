@@ -3,8 +3,8 @@
 <h2>👋 About me</h2>
 
 - 🔭 I’m currently working on myself
-- :mortar_board: I'm currently studying for Bachelor degree majoring in Cyber Security at [NRNU MEPHI](https://mephi.ru/) university.
-- 📫 How to reach me: imomali.msk@gmail.com
+- :mortar_board: I'm currently studying for Bachelor degree majoring in Cyber Security.
+- 📫 How to reach me: imomali885@gmail.com
 
 <h2>📜 Focused on</h2>
 
